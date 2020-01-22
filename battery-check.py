@@ -3,9 +3,6 @@ import sys
 import subprocess, os
 from time import sleep, time
  
-__author__ = "Prahlad Yeri"
-__version__ = "1.0.7"
- 
 def execute_shell(command, error=''):
     return execute(command, wait=True, shellexec=True, errorstring=error)
  
