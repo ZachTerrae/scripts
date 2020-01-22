@@ -1,2 +1,2 @@
 # scripts
-Fun/interesting scripts I make when I get bored
+Fun/interesting scripts I make/find when I get bored.
